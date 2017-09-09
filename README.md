@@ -1,7 +1,9 @@
-Andrew Kurjata
+Homepage: akurjata.ca
 =========================
 
-This is me testing out Glitch.
+This is me testing out Glitch by creating a simple homepage hosted on Glitch and using a custom URL from Namecheap.
+
+
 
 **Glitch** is the friendly commmunity where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
