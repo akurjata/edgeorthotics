@@ -15,7 +15,11 @@ body {
 
 h1 {
   font-weight: bold;
-  color: orange;
+ 
+}
+
+h1 :hover { color: #ff4500;
+  
 }
 
 .bold {
@@ -27,8 +31,8 @@ p {
 
 }
 
-main a {color: orange; text-decoration: none; border-bottom: 1px dashed;}
-main a:hover { color: orange; text-decoration:none; border-bottom:1px solid;} 
+main a {color: #ff4500; text-decoration: none; border-bottom: 1px dashed;}
+main a:hover { color: #ff4500; text-decoration:none; border-bottom:1px solid;} 
 
 
 li {
