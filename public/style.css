@@ -13,6 +13,7 @@ body {
   margin: 25px;
 }
 
+
 h1 {
   font-weight: bold;
  
@@ -52,6 +53,17 @@ margin-right: auto;
 margin-top: -1.75em; 
     line-height: 0.0em;
 }
+
+description img{
+  position: relative;
+  padding-top:  /* 16:9 Aspect Ratio */
+  left: 0;
+  top: 0;
+  width: 60%;
+  max-width: 350px;
+  height: auto;
+}
+
 
 p {
   max-width: 600px;
