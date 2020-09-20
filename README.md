@@ -1,2 +1,2 @@
-# akurjata.github.io
+# akurjata.ca
 personal website
