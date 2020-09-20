@@ -1,2 +1,0 @@
-# akurjata.ca
-personal website
