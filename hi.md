@@ -1,13 +1,3 @@
-<!-- This is a static file -->
-<!-- served from your routes in server.js -->
-
-<!-- You might want to try something fancier: -->
-<!-- html/nunjucks docs: https://mozilla.github.io/nunjucks/ -->
-<!-- pug: https://pugjs.org/ -->
-<!-- haml: http://haml.info/ -->
-<!-- hbs(handlebars): http://handlebarsjs.com/ -->
-
-<!DOCTYPE html>
 <html>
   <head>
     <title>Andrew Kurjata</title>
@@ -20,7 +10,7 @@
   </head>
   <body>
     <header>
-    <h1>  <img src="https://akurjata.ca/akurjata-icon.jpg"></img>
+    <h1>  <img src="https://akurjata.ca/akurjata-icon.jpg">
 <a href="">Andrew&nbsp;Kurjata</a></h1>
     
       
