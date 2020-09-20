@@ -14,7 +14,7 @@
     
       
     </header>
-<description
+<description>
       <p><strong>Journalist, radio producer, poptimist</strong></p>
 <img src="https://akurjata.ca/andrew-kurjata.jpg"></img> 
 </description>
