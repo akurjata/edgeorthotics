@@ -1,4 +1,3 @@
-<html>
   <head>
     <title>Andrew Kurjata</title>
     <meta name="description" content="contact for Andrew Kurjata">
@@ -62,4 +61,4 @@
     <script src="/client.js"></script>
 
   </body>
-</html>
+
