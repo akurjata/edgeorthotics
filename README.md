@@ -1,1 +1,1 @@
-This is just a personal website.
+Edge Orthotics, custom orthotics
