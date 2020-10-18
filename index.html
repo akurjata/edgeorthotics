@@ -25,7 +25,7 @@
 <meta name="twitter:image" content="https://edgeorthotics.ca/assets/edge-orthotics-social-preview-summer.png">	  
   </head>
 	
-  <style>
+ <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
 body, html {
@@ -58,7 +58,7 @@ height: 3em;
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("/assets/arek-adeoye-runner-unsplash.jpg");
+  background-image: url("https://cdn.glitch.com/df278140-b4c2-46e4-b07a-51f57903a6d5%2Farek-adeoye-runner-unsplash.jpg?v=1602885976643");
   min-height: 500px;
     }
     
@@ -95,6 +95,58 @@ height: 3em;
   max-width: 600px;
   margin: auto;
 }    
+ 
+    /* Container holding the image and the text */
+.shalina {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+ 
+    
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+   
+/* Top centered text */
+.top-centered {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+}
     
 </style>
 <body>
@@ -191,7 +243,7 @@ height: 3em;
     At Edge Orthotics, a certified pedorthist works with you to learn about your injury, your lifestyle and your goals before determining whether orthotics are the right fit.</p>
    <p>If they are, that same pedorthist will handcraft them for you in our on-site lab. We know every person and foot is unique, so we create custom molds to make sure you're getting the best match possible.
       You will also receive follow-up service for maximum comfort and mobility.</p>
-    <p>Whether you are experiencing a sports or work injury, diabetic complications or managing chronic pain, Edge Orthotics has more than ten years experience serving Prince George and Northern British Columbia and is ready to help you get back on your feet. 
+    <p>Whether you are experiencing a sports or work-related injury, diabetic complications or managing chronic pain, Edge Orthotics has more than ten years experience serving Prince George and Northern British Columbia and is ready to help you get back on your feet. 
   </p>
   </div>                       
   </div>                   
@@ -285,19 +337,24 @@ height: 3em;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sHE_Na-0Amo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 </div>
+  
 </div> 
 
 <!-- TEAM section -->  
 <div id="team"></div>         
-                  
-<div class="w3-display-container">
-  <div class="w3-display-middle">
-    <span class="w3-xxlarge w3-text-white"><br><br><br><br>MEET YOUR PEDORTHIST<br>
-</span>
-      </div>    
-        
-  </div>                                         
- <img class="w3-image" src="/assets/shalina.jpg" alt="Shalina Edge" max-width="1500" height="600">                                                                                                                                                 
+
+  <div class="shalina">
+  <img src="/assets/shalina.jpg alt="Shalina style="width:100%;">
+  <div class="bottom-left"></div>
+  <div class="top-left"></div>
+  <div class="top-right"></div>
+  <div class="bottom-right"></div>
+  <div class="top-centered w3-xxxlarge w3-hide-small">MEET YOUR PEDORTHIST</div>
+ <div class="top-centered w3-xxlarge w3-hide-large w3-hide-medium"><br><br>MEET YOUR PEDORTHIST</div>
+
+  <div class="centered"></div>
+</div>
+                                         
 </div>
 
   <div class="w3-container w3-pale-blue" style="padding:25px 16px">                          
